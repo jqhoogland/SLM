@@ -1,6 +1,13 @@
 # SLM
 Exercises from a course in my Masters: the Statistical Physics of Soft and Living Matter
 
+---
+
+Also contains my first (and only) attempt at taking [notes in markdown](/notes-md) live while reading a textbook (Steven Strogatz's *Nonlinear Dynamics and Chaos*).
+And a [final project](/why_ML_works.pdf) (on why neural networks are so powerful) I co-wrote with classmate Karel Zijp.
+
+---
+
 *From the [course catalogue](https://coursecatalogue.uva.nl/xmlpages/page/2020-2021-en/search-course/course/79791):*
 
 ## Objectives
