@@ -4,7 +4,8 @@ Exercises from a course in my Masters: the Statistical Physics of Soft and Livin
 ---
 
 Also contains my first (and only) attempt at taking [notes in markdown](/notes-md) live while reading a textbook (Steven Strogatz's *Nonlinear Dynamics and Chaos*).
-And a [final project](/why_ML_works.pdf) (on why neural networks are so powerful) I co-wrote with classmate Karel Zijp.
+
+And a [final project](/why_ML_works.pdf) (on why neural networks are so powerful) I co-wrote with classmate Karel Zijp. This includes code to run reservoir neural networks (aka echo networks): [Jupyter notebook](/reservoir_computing_chaos.ipynb), [Python module](/reservoir_computer.py).
 
 ---
 
